@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mensch-aergere-dich-nicht.iml" filepath="$PROJECT_DIR$/mensch-aergere-dich-nicht.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mensch-client/mensch-client.iml" filepath="$PROJECT_DIR$/mensch-client/mensch-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mensch-server/mensch-server.iml" filepath="$PROJECT_DIR$/mensch-server/mensch-server.iml" />
+    </modules>
+  </component>
+</project>
